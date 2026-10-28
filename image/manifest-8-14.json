@@ -1,0 +1,135 @@
+[
+  {
+    "id": 8,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.54.jpeg",
+    "output": "image/logo8.webp",
+    "width": 1417,
+    "height": 1110,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 367884,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 9,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.55 (1).jpeg",
+    "output": "image/logo9.webp",
+    "width": 1315,
+    "height": 1197,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 420564,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 10,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.55 (2).jpeg",
+    "output": "image/logo10.webp",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 450086,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 11,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.55.jpeg",
+    "output": "image/logo11.webp",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 850322,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 12,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.56 (1).jpeg",
+    "output": "image/logo12.webp",
+    "width": 1152,
+    "height": 1366,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 715514,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 13,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.56 (2).jpeg",
+    "output": "image/logo13.webp",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 145356,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 14,
+    "original": "image/WhatsApp Image 2026-10-28 at 20.47.56.jpeg",
+    "output": "image/logo14.webp",
+    "width": 1254,
+    "height": 1254,
+    "transparent": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "generationPrompt": "Remove only background; preserve all original text, shapes, colors, and exact aspect ratio; create HD transparent cutout with no redesigned elements.",
+    "bytes": 295274,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  }
+]

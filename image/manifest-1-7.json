@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.52.jpeg",
+    "output": "logo1.webp",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 424432,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 2,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.53 (1).jpeg",
+    "output": "logo2.webp",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 443862,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 3,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.53 (2).jpeg",
+    "output": "logo3.webp",
+    "width": 1213,
+    "height": 1297,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 501382,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 4,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.53.jpeg",
+    "output": "logo4.webp",
+    "width": 1720,
+    "height": 914,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 112486,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 5,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.54 (1).jpeg",
+    "output": "logo5.webp",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 443626,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 6,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.54 (2).jpeg",
+    "output": "logo6.webp",
+    "width": 1239,
+    "height": 1270,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 347788,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  },
+  {
+    "id": 7,
+    "original": "WhatsApp Image 2026-10-28 at 20.47.54 (3).jpeg",
+    "output": "logo7.webp",
+    "width": 1254,
+    "height": 1254,
+    "mode": "RGBA",
+    "hasTransparency": true,
+    "method": "Built-in imagegen background extraction, WebP quality 95 recompression; exact alpha and HD dimensions preserved; original JPEG retained",
+    "bytes": 427008,
+    "compression": {
+      "format": "WebP",
+      "quality": 95,
+      "method": 6,
+      "alphaQuality": 100,
+      "losslessRgb": false,
+      "losslessAlpha": true
+    }
+  }
+]
